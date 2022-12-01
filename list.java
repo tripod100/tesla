@@ -8,6 +8,7 @@ Bunmi
 Sesan
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 gbenga
 Olu
 =======
@@ -17,4 +18,9 @@ chair table
 =======
 gbenga
 Olu
+>>>>>>> Stashed changes
+=======
+Lactose
+table 
+
 >>>>>>> Stashed changes
